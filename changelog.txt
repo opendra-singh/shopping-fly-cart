@@ -1,0 +1,4 @@
+*** WooDevz Shopping & Fly Cart For Woocommercec Changelog ***
+
+2023-04-11 - version 1.0.0
+ * Initial release
